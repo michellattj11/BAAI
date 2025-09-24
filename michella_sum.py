@@ -5,8 +5,10 @@
 #
 
 # 1. Input
-X = 5
+X = 8
 Y = 7
+
 # 2. Process
-Sum = X＋ Y
+Sum = X + Y 
 # 3. Output
+print (f'Result {Sum}')
